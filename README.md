@@ -1,1 +1,1 @@
-# code-excercise
+# code-snippet
